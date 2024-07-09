@@ -8068,7 +8068,7 @@
               "color": "#767676",
               "margin": "0",
               "padding-top": "1.5rem",
-              "text-align": "left"
+              "text-align": "center"
             },
             "a:not([href]):not([tabindex])": {
               "color": "#fff",
