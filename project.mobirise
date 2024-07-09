@@ -8067,7 +8067,8 @@
             ".mbr-text": {
               "color": "#767676",
               "margin": "0",
-              "padding-top": "1.5rem"
+              "padding-top": "1.5rem",
+              "text-align": "left"
             },
             "a:not([href]):not([tabindex])": {
               "color": "#fff",
