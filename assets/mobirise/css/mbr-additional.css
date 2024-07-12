@@ -1197,6 +1197,72 @@ section.lazy-placeholder:after {
 .cid-u8raE0FflG textarea.form-control {
   min-height: 188px;
 }
+.cid-uikCkGABVq {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #661306;
+}
+.cid-uikCkGABVq .media-container-column {
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-uikCkGABVq .mbr-author-desc {
+  display: block;
+}
+.cid-uikCkGABVq .mbr-testimonial {
+  flex-basis: auto;
+  margin-top: 5rem;
+  -webkit-flex-basis: auto;
+}
+.cid-uikCkGABVq .mbr-testimonial .panel-item {
+  background-color: #232323;
+  background: linear-gradient(#232323, transparent);
+}
+.cid-uikCkGABVq .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2rem;
+}
+.cid-uikCkGABVq .mbr-testimonial .card-block .testimonial-photo {
+  margin-top: -5rem;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+  border-radius: 0;
+}
+.cid-uikCkGABVq .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-uikCkGABVq .mbr-testimonial .card-block p {
+  margin: 0;
+}
+.cid-uikCkGABVq .mbr-testimonial .card-footer {
+  padding: 0 2rem 2rem 2rem;
+  border-top: 0;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 260px) {
+  .cid-uikCkGABVq .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-uikCkGABVq H2 {
+  color: #ffffff;
+}
+.cid-uikCkGABVq .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-uikCkGABVq .mbr-author-name {
+  text-align: center;
+}
 .cid-u8qVUzjxtb .navbar {
   padding: .5rem 0;
   background: #000000;
@@ -1604,20 +1670,6 @@ section.lazy-placeholder:after {
 .cid-u8qVUzjxtb .nav-link:hover,
 .cid-u8qVUzjxtb .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-u8qTbDMhuZ {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #661306;
-}
-.cid-u8qTbDMhuZ P {
-  color: #767676;
-}
-.cid-u8qTbDMhuZ H1 {
-  color: #ffffff;
-}
-.cid-u8qTbDMhuZ H3 {
-  color: #efefef;
 }
 .cid-uhiL98Z7M3 {
   padding-top: 0px;
